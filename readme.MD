@@ -157,7 +157,3 @@ The app also warns conditions like:
 
 **Bharathi M**  
 AI & Data Science  
-
-If you found this project useful, please ⭐ the repo on GitHub 💜
-
-If you want, I can generate:
