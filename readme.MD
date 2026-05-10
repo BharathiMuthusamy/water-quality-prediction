@@ -77,7 +77,7 @@ Using **CatBoostClassifier**:
 
 - `models/best_model.pkl` — Trained CatBoost model
 - `models/scaler.pkl` — StandardScaler for feature normalization
-- `models/feature_names.pkl` — Feature column names  
+- `models/feature_names.pkl` — Feature column names
 
 ---
 
@@ -149,7 +149,7 @@ User Input → Feature Engineering → StandardScaler Normalization
 
 - ⚠️ **pH Alert** — Outside range 6.5 – 8.5
 - ⚠️ **Turbidity Alert** — Greater than 5 NTU
-- ⚠️ **Solids Alert** — Greater than 15,000 mg/L  
+- ⚠️ **Solids Alert** — Greater than 15,000 mg/L
 
 ---
 
@@ -180,7 +180,7 @@ User Input → Feature Engineering → StandardScaler Normalization
 | **Streamlit** | Interactive web UI |
 | **Pandas** | Data manipulation |
 | **NumPy** | Numerical computations |
-| **Joblib** | Model serialization |  
+| **Joblib** | Model serialization |
 
 ---
 
@@ -209,4 +209,4 @@ User Input → Feature Engineering → StandardScaler Normalization
 **Author:** Bharathi M  
 **Field:** AI & Machine Learning  
 
-For questions or issues, please refer to the project repository.  
+For questions or issues, please refer to the project repository.
